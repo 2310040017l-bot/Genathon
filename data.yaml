@@ -1,0 +1,6 @@
+train: /home/linux/Documents/delete classes.yolov11/train/images
+val: /home/linux/Documents/delete classes.yolov11/valid/images
+test: /home/linux/Documents/delete classes.yolov11/test/images
+
+nc: 3
+names: ['maskoff', 'no_glove', 'no_hairnet']
